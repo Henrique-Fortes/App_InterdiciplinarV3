@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">App_InterdiciplinarV3</string>
+
+
+
+
+
+
+
+    <string-array name="generos">
+        <item>Ação</item>
+        <item>Romance</item>
+        <item>Comédia</item>
+        <item>Contos e Crônicas</item>
+        <item>Ficção Fantástica</item>
+        <item>Ficção Científica</item>
+        <item>Medieval</item>
+        <item>HQ</item>
+        <item>Mangá</item>
+        <item>Terror</item>
+        <item>Poesia</item>
+        <item>Policial</item>
+        <item>Romances</item>
+        <item>Sátira e Humor</item>
+    </string-array>
+
+
+
+
+    <string-array name="editoras">
+        <item>Record</item>
+        <item>Companhia das Letras</item>
+        <item>Intrinseca</item>
+        <item>Globo</item>
+        <item>Verus</item>
+        <item>Novo Seculo</item>
+        <item>Galera</item>
+        <item>Sextante</item>
+        <item>Martin Claret</item>
+        <item>Suma de Letras</item>
+        <item>Darkside Books</item>
+        <item>Casa Da Palavra</item>
+
+
+
+
+    </string-array>
+
+
+
+
+
+
+    <string-array name="options">
+        <item>Atualizar</item>
+        <item>Remover</item>
+    </string-array>
+
+    <string name="dialog_message">Teste</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dialog_title">Escolha o que deseja fazer.</string>
+
+</resources>
